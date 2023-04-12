@@ -5,3 +5,6 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 B2B
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/derexky/manifest/main/b2b.plist
+
+PCSO
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/derexky/manifest/main/pcso.plist
