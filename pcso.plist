@@ -9,7 +9,7 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>https://github.com/derexky/manifest/blob/main/pcso.ipa</string>
+					<string>https://drive.google.com/file/d/1gwgW4z-OH5icctFPHnkiHYypA4thcxVL/view?usp=share_link</string>
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>
@@ -21,7 +21,7 @@
 				<key>title</key>
 				<string>PCSO</string>
 				<key>bundle-version</key>
-				<string>4.7.4</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 			</dict>
