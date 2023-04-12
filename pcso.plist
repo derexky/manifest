@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ledtapp.liveTool-Prod</string>
+				<string>com.ledtapp.pcso</string>
 				<key>title</key>
-				<string>LiveTool</string>
+				<string>PCSO</string>
 				<key>bundle-version</key>
 				<string>4.7.4</string>
 				<key>kind</key>
